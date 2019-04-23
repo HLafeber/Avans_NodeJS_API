@@ -1,0 +1,30 @@
+{
+  "name": "avansnodeproject",
+  "version": "0.0.5",
+  "description": "Avans Node Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harley Lafeber",
+  "license": "ISC",
+  "keywords": [
+    "avans",
+    "node",
+    "app",
+    "nodejs",
+    "test"
+  ],
+  "dependencies": {
+    "enum": "^2.5.0",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HLafeber/Avans_NodeJS_API.git"
+  }
+}
